@@ -31,4 +31,5 @@ for file in ${files}; do
 done
     
 # Install packages I can't live without. Just put them in the text file.
+xargs -a packages.txt sudo apt install
 
