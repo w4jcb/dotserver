@@ -8,7 +8,7 @@ if [ ! -d Local-Repo/dotfiles ] ; then
   git clone https://github.com/w4jcb/dotserver.git Local-Repo/dotserver
 fi
 
-cd Local-Repo/dotfiles
+cd Local-Repo/dotserver
 
 DIR=${PWD} # folder this file is in
 homedir=/home/${USER} #/home/user_name
