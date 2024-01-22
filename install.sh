@@ -33,3 +33,5 @@ done
 # Install packages I can't live without. Just put them in the text file.
 xargs -a packages.txt sudo apt install
 
+# Install pip3 style packages I can't live without.
+sudo pip3 install -r requirements.txt
