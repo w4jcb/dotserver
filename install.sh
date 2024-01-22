@@ -35,3 +35,6 @@ xargs -a packages.txt sudo apt install
 
 # Install pip3 style packages I can't live without.
 sudo pip3 install -r requirements.txt
+
+# Install SNAP packages I can't live without.
+xargs -a snaps.txt sudo snap install
