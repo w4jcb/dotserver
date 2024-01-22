@@ -5,6 +5,7 @@ gedit
 gedit-plugin-text-size
 nemo
 net-tools
+openssh-client
 sshfs
 tasksel
 vlc
