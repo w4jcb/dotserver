@@ -11,3 +11,9 @@ tasksel
 vlc
 wget
 xrdp
+libx11-dev
+libxineramama-dev
+sharutils
+suckless-tools
+libxft-dev
+stterm
