@@ -1,14 +1,8 @@
 curl
-grsync
-gparted
-gedit
-gedit-plugin-text-size
 nemo
 net-tools
 openssh-client
-sshfs
 tasksel
-vlc
 wget
 xrdp
 libx11-dev
@@ -16,4 +10,9 @@ libxineramama-dev
 sharutils
 suckless-tools
 libxft-dev
-stterm
+pcmanfm
+nitrogen
+xterm
+lxterminal
+xinit
+x11-xserver-utils
