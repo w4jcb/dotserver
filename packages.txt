@@ -16,3 +16,5 @@ xterm
 lxterminal
 xinit
 x11-xserver-utils
+build-essential
+libharfbuzz-dev
