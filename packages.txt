@@ -3,7 +3,7 @@ curl
 libharfbuzz-dev
 libx11-dev
 libxft-dev
-libxineramama-dev
+libxinerama-dev
 lxterminal
 nemo
 net-tools
