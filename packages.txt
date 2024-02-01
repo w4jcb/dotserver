@@ -1,5 +1,7 @@
 build-essential
 curl
+gedit
+gedit-plugin-text-size
 libharfbuzz-dev
 libx11-dev
 libxft-dev
