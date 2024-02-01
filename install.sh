@@ -4,7 +4,7 @@ set -ux
 
 cd
 
-if [ ! -d Local-Repo/dotfiles ] ; then
+if [ ! -d Local-Repo/dotserver ] ; then
   git clone https://github.com/w4jcb/dotserver.git Local-Repo/dotserver
 fi
 
